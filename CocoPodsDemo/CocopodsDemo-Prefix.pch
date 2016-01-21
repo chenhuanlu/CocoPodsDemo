@@ -1,0 +1,16 @@
+//
+//  CocopodsDemo-Prefix.pch
+//  CocoPodsDemo
+//
+//  Created by 殷福帅 on 15/12/30.
+//  Copyright © 2015年 chl. All rights reserved.
+//
+
+#ifndef CocopodsDemo_Prefix_pch
+#define CocopodsDemo_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "AFNetworking.h"
+#import "SVProgressHUD.h"
+#endif /* CocopodsDemo_Prefix_pch */
